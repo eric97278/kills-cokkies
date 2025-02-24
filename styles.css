@@ -1,0 +1,23 @@
+.shooter {
+   position: fixed;
+   bottom: 20px;
+   left: 50%;
+   width: 50px;
+   height: 50px;
+   background: url('shooter.png') no-repeat center/contain;
+}
+
+.bullet {
+   position: absolute;
+   width: 10px;
+   height: 10px;
+   background: red;
+   border-radius: 50%;
+}
+
+.explosion {
+   position: absolute;
+   width: 30px;
+   height: 30px;
+   background: url('explosion.webp') no-repeat center/contain;
+}

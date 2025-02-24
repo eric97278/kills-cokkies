@@ -30,9 +30,9 @@
    "action": {
       "default_popup": "popup.html",
       "default_icon": {
-         "16": "",
-         "48": "",
-         "128": ""
+         "16": "tir-16.png",
+         "48": "tir-48.png",
+         "128": "tir-128.png"
       }
    }
 }
